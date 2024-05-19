@@ -2,7 +2,7 @@
 
 <h1 class="text-center pt-3">This is Home page</h1>
 
-    <!--<section class="py-3">
+    <section class="py-3">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -46,7 +46,7 @@
                 </div>
             </div>
         </div>
-    </section>-->
+    </section>
 
 
 
